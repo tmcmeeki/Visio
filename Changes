@@ -1,0 +1,22 @@
+Revision history for Perl extension Visio.
+
+0.01  Sun Jun  3 14:12:44 2012
+	- original version; created by h2xs 1.23 with options
+		-X -n Visio
+
+TO-DO.
+
+Visio Components are the items that make up the document structure.
+page create
+page delete
+page properties
+document properties
+
+Visio Actions allow shapes to be manipulated
+master (shape) add
+page (shape) add
+copy shape master->page
+copy shape page->page (within, between)
+
+shape properties, e.g. name, position, size
+attribute assignment

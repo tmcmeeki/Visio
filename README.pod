@@ -1,0 +1,39 @@
+=head1 NAME
+
+Visio - revised class for Visio.
+
+=head1 SYNOPSIS
+
+	use Visio;
+
+
+=head1 DESCRIPTION
+
+___detailed_class_description_here___
+
+=over 4
+
+=item 1.  tba
+
+tba
+
+=back
+
+
+=cut
+
+=head1 VERSION
+
+$Revision: 1.6 $
+
+=head1 AUTHOR
+
+Copyright (C) 2010  Tom McMeekin
+
+=head1 SEE ALSO
+
+L<perl>.
+
+
+=cut
+
