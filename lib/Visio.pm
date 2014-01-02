@@ -1,8 +1,7 @@
 package Visio;
-# $Header: /home/tomby/RCS/Visio.pm,v 1.6 2010/08/02 00:41:48 tomby Exp $
 #
 # Visio.pm - revised class for Visio.
-# $Revision: 1.6 $, Copyright (C) 2010 Thomas McMeekin
+# Revision ___EUMM_VERSION___, Copyright (C) 2012 Thomas McMeekin
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published
@@ -18,9 +17,6 @@ package Visio;
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 #
-#
-# History:
-# $Log: Visio.pm,v ___join_line_here___ $
 
 =head1 NAME
 
@@ -323,11 +319,11 @@ __END__
 
 =head1 VERSION
 
-$Revision: 1.6 $
+___EUMM_VERSION___
 
 =head1 AUTHOR
 
-Copyright (C) 2010  Tom McMeekin
+Copyright (C) 2012  Tom McMeekin
 
 =head1 SEE ALSO
 

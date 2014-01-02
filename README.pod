@@ -24,7 +24,7 @@ tba
 
 =head1 VERSION
 
-$Revision: 1.6 $
+Build V1.001
 
 =head1 AUTHOR
 

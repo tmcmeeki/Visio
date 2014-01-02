@@ -1,0 +1,1508 @@
+2014/01/02 21:02:37 visio_parser.pl listing of values
+2014/01/02 21:02:37 visio_parser.pl path	example value(s)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Colors/ColorEntry@IX:	0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 3, 4, 5, 6, 7, 8, 9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Colors/ColorEntry@RGB:	#000000, #000080, #0000FF, #008000, #008080, #00FF00, #00FFFF, #1A1A1A, #333333, #4D4D4D, #666666, #800000, #800080, #808000, #808080, #9A9A9A, #B3B3B3, #C0C0C0, #CDCDCD, #DDE2CD, #E6E6E6, #EFF1E4, #FF0000, #FF00FF, #FFFF00, #FFFFFF
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/BuildNumberCreated/#text:	805509500
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/BuildNumberEdited/#text:	805312791
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Category/#text:	File->Properties->Category
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Company/#text:	File->Properties->Company
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Creator/#text:	File->Properties->Author
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/CustomProps/CustomProp/#text:	1, TC010497201033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/CustomProps/CustomProp@Name:	_TemplateID, _VPID_EXTENDED_VDX
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/CustomProps/CustomProp@PropType:	Number, String
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Desc/#text:	File->Properties->Description
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Keywords/#text:	File->Properties->Keywords
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Manager/#text:	File->Properties->Manager
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/PreviewPicture/#text:	XXXXX
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/PreviewPicture@Size:	13240
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Subject/#text:	File->Properties->Subject
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Template/#text:	c:\program files\microsoft office\office12\1033\BASFLO_M.VST
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/TimeCreated/#text:	2011-04-14T15:59:55
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/TimeEdited/#text:	2013-12-30T08:53:54
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/TimePrinted/#text:	2011-04-14T15:59:55
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/TimeSaved/#text:	2013-12-30T08:53:58
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentProperties/Title/#text:	File->Properties->Title
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/DynamicGridEnabled/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/GlueSettings/#text:	9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/ProtectBkgnds/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/ProtectMasters/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/ProtectShapes/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/ProtectStyles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/SnapExtensions/#text:	34
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings/SnapSettings/#text:	295
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings@DefaultFillStyle:	7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings@DefaultGuideStyle:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings@DefaultLineStyle:	7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings@DefaultTextStyle:	7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSettings@TopPage:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/AddMarkup/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/DocLangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/LockPreview/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/OutputFormat/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/PreviewQuality/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/PreviewQuality@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/PreviewScope/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/PreviewScope@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/DocProps/ViewMarkup/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/User/Prompt@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/User/Value/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/User@ID:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet/User@NameU:	msvNoAutoConnect
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet@FillStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet@LineStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet@Name:	TheDoc
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet@NameU:	TheDoc
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/DocumentSheet@TextStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/FaceNames/FaceName@CharSets:	-2147483648 0, 1 0, 1048577 0, 1073742335 -65536, 1073873055 -539557888, 1074266271 -539557888, 1614742015 -65536, 262145 0, 536871071 0, 536936959 539492352, 65537 0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/FaceNames/FaceName@Flags:	261, 325, 327, 357, 421
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/FaceNames/FaceName@ID:	1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 3, 4, 5, 6, 7, 8, 9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/FaceNames/FaceName@Name:	Arial, Arial Unicode MS, Cordia New, Dhenu, Dotum, Estrangelo Edessa, Gautami, Gulim, Latha, MS Farsi, MS PGothic, Mangal, PMingLiU, Raavi, Sendnya, Shruti, SimSun, Sylfaen, Symbol, Times New Roman, Tunga, Vrinda, Wingdings
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/FaceNames/FaceName@Panos:	1 10 5 2 5 3 6 3 3 3, 2 1 6 0 3 1 1 1 1 1, 2 11 3 4 2 2 2 2 2 4, 2 11 5 2 4 2 4 2 2 3, 2 11 6 0 0 1 1 1 1 1, 2 11 6 0 7 2 5 8 2 4, 2 11 6 4 2 2 2 2 2 4, 2 2 5 0 0 0 0 0 0 0, 2 2 6 3 5 4 5 2 3 4, 2 4 5 3 5 2 3 3 2 2, 3 8 6 0 0 0 0 0 0 0, 5 0 0 0 0 0 0 0 0 0, 5 5 1 2 1 7 6 2 5 7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/FaceNames/FaceName@UnicodeRanges:	-1 -369098753 63 0, -1342176593 1775729915 48 0, -1610611969 684719354 22 0, -2130706429 0 0 0, -2147475389 0 128 0, -520082689 -1073741822 8 0, -536859905 -1073711037 9 0, -536859905 -1073711039 9 0, -536870145 1791491579 18 0, 0 0 0 0, 1048579 0 0 0, 131075 0 0 0, 2097155 0 0 0, 262147 0 0 0, 3 680460288 6 0, 32771 0 0 0, 4194307 0 0 0, 65539 0 0 0, 67110535 0 0 0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Icon/#text:	XXXXX
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Active/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Color/#text:	255
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/ColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/ColorTrans@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Glue/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Lock/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Name/#text:	Connector, Flowchart
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/NameUniv/#text:	Connector, Flowchart
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Print/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Snap/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Status/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer/Visible/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Layer@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/BegTrigger/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/BegTrigger@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/Calendar/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/Calendar@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/Comment@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/DropOnPageScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/DropOnPageScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/DynFeedback/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/DynFeedback@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/EndTrigger/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/EndTrigger@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/GlueType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/GlueType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/HideText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/HideText@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/IsDropSource/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/IsDropSource@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/LangID@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/LocalizeMerge/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/LocalizeMerge@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoAlignBox/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoCtlHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoCtlHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoLiveDynamics/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoLiveDynamics@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoObjHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NoObjHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NonPrinting/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/NonPrinting@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/ObjType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/ObjType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/ShapeKeywords/#text:	Data,type,flowchart,basic,information,flow,process,joiner,association,business,process,Six,6,Sigma,ISO,9000, Decision,Yes/No,flowchart,basic,information,flow,data,process,joiner,association,business,process,Six,6,Sigma,ISO,9000, Process,function,task,Basic,Flowchart,flow,data,process,joiner,association,business,process,Six,6,Sigma,ISO,9000, arrow,arrowhead,fancy,single,business,process, operation,manual,basic,flowchart,information,flow,data,process,joiner,association,business,process,Six,6,Sigma,ISO,9000
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/UpdateAlignBox/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/UpdateAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/WalkPreference/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/Misc/WalkPreference@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/DrawingScale/#text:	0.03937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/DrawingScale@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/DrawingScaleType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/DrawingSizeType/#text:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/InhibitSnap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/InhibitSnap@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/PageHeight/#text:	3.937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/PageHeight@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/PageScale/#text:	0.03937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/PageScale@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/PageWidth/#text:	3.937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/PageWidth@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwObliqueAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwObliqueAngle@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwOffsetX/#text:	0.1181102362204724, 0.1181102362204725
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwOffsetX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwOffsetY/#text:	-0.1181102362204724, -0.1181102362204725
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwOffsetY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwScaleFactor/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/ShdwType@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/UIVisibility/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PageProps/UIVisibility@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/CenterX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/CenterY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/OnPage/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PageBottomMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PageLeftMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PageRightMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PageTopMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PagesX/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PagesY/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PaperKind/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PaperSource/#text:	7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PrintGrid/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/PrintPageOrientation/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/ScaleX/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet/PrintProps/ScaleY/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet@FillStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet@LineStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/PageSheet@TextStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Action/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Action@F:	DOCMD(1312)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/BeginGroup/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/BeginGroup@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/ButtonFace@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Checked/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Checked@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Disabled/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Disabled@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Invisible/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Invisible@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/Menu/#text:	%P&roperties
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/ReadOnly/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/ReadOnly@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/SortKey@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act/TagName@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act@ID:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Act@NameU:	Row_1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/AsianFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/AsianFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Case/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Case@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Color/#text:	#000000
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Color@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/ColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/ColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/ComplexScriptFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/ComplexScriptFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/ComplexScriptSize/#text:	-1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/ComplexScriptSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/DblUnderline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/DblUnderline@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/DoubleStrikethrough/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/DoubleStrikethrough@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Font/#text:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Font@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/FontScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/FontScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Highlight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Highlight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/LangID@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Letterspace/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Letterspace@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/LocalizeFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/LocalizeFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Overline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Overline@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Pos/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Pos@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/RTLText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/RTLText@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Size/#text:	0.1111111111111111
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Size@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Size@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Strikethru/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Strikethru@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Style/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/Style@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/UseVertical/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char/UseVertical@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Char@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/AutoGen/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/AutoGen@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/DirX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/DirX@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/DirY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/DirY@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Prompt@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Prompt@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Type/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Type@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/X/#text:	0, 0.09842519685039371, 0.4921259842519685, 0.8858267716535433, 0.984251968503937
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/X@F:	0.5*Width, Scratch.Y1/2, Width, Width-Connections.X1, Width/2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Y/#text:	0, 0.2952755905511811, 0.5905511811023623
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Y@F:	0.5*Height, Height, Height*0.5, Height/2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Connection@IX:	0, 1, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/CanGlue/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/Prompt/#text:	Reposition Text
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/X/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/XCon/#text:	5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/XCon@F:	IF(OR(STRSAME(SHAPETEXT(TheText),""),HideText),5,0)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/XDyn/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/XDyn@F:	Controls.TextPosition
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/Y/#text:	-1.181102362204724
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/YCon/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/YDyn/#text:	-1.181102362204724
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control/YDyn@F:	Controls.TextPosition.Y
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control@ID:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Control@NameU:	TextPosition
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/EventDblClick/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/EventDblClick@F:	Inh, OPENTEXTWIN()
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/EventDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/EventDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/EventXFMod/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/EventXFMod@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/TheData/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/TheData@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/TheText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Event/TheText@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillBkgnd/#text:	#eff1e4, 15
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillForegnd/#text:	#dde2cd, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillForegnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillForegndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillForegndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillPattern/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/FillPattern@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwObliqueAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwObliqueAngle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwOffsetX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwOffsetX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwOffsetY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwOffsetY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwScaleFactor/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwScaleFactor@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShapeShdwType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwBkgnd/#text:	#ffffff, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwForegnd/#text:	#ffffff, 0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwForegnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwForegndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwForegndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Fill/ShdwPattern@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo/X/#text:	-0.1476377952755906, 0, 0.1476377952755906, 0.1968503937007874, 0.2952755905511825, 0.3937007874015762, 0.4921259842519685, 0.4921259842519699, 0.7874015748031497, 0.8366141732283465, 0.984251968503937, 1.131889763779528, 1.181102362204724, 1.181102362204725
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo/X@F:	(0.5*Height)*TAN(RAD(45)), Geometry1.X1, Geometry1.X2, Geometry1.X2+(0.125*Height), Geometry1.X2-0.125*Height, Geometry1.X3, Geometry1.X4, Width, Width*0, Width*0+Scratch.X1, Width*0.5, Width*1, Width*1+Scratch.X1, Width*1-Scratch.X1, Width-Geometry1.X1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo/Y/#text:	-1.181102362204724, 0, 0.09842519685039371, 0.2952755905511811, 0.3937007874015748, 0.4921259842519685, 0.5905511811023623, 0.6889763779527559, 0.7874015748031497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo/Y@F:	Geometry1.Y1, Geometry1.Y4, Geometry1.Y6, Height, Height*0, Height*0.125, Height*0.375, Height*0.5, Height*0.625, Height*1, Height-(0.125*Height)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/LineTo@IX:	10, 2, 3, 4, 5, 6, 7, 8, 9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo/X/#text:	-0.1476377952755906, 0, 0.1968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo/X@F:	Scratch.Y1, Width*0, Width*0-Scratch.X1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo/Y/#text:	0, 0.2952755905511811, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo/Y@F:	Height*0, Height*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/MoveTo@IX:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoFill/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoLine/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoLine@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoShow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoShow@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoSnap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom/NoSnap@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Geom@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Help/Copyright/#text:	Copyright (c) 2006 Microsoft Corporation.  All rights reserved., Copyright 2001 Microsoft Corporation.  All rights reserved.
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Help/HelpTopic/#text:	Vis_SE.chm!#20000, Vis_SFB.chm!#50006, Vis_SFB.chm!#50007, Vis_SFB.chm!#50009, Vis_SFB.chm!#50019, Vis_Sba.chm!#55666
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/LayerMem/LayerMember/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConFixedCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConFixedCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpDirX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpDirX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpDirY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpDirY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineJumpStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineRouteExt/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ConLineRouteExt@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeFixedCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeFixedCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePermeablePlace/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePermeablePlace@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePermeableX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePermeableX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePermeableY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePermeableY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePlaceFlip/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePlaceFlip@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePlowCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapePlowCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeRouteStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeRouteStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeSplit/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeSplit@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeSplittable/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Layout/ShapeSplittable@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/BeginArrow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/BeginArrow@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/BeginArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/BeginArrowSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/EndArrow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/EndArrow@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/EndArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/EndArrowSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineCap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineCap@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineColor/#text:	#000000
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineColor@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LinePattern/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LinePattern@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineWeight/#text:	0.003333333333333333
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineWeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/LineWeight@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/Rounding/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Line/Rounding@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/BegTrigger/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/BegTrigger@F:	No Formula, _XFTRIGGER(Sheet.4!EventXFMod)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/Calendar/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/Calendar@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/Comment@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/DropOnPageScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/DropOnPageScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/DynFeedback/#text:	0, 2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/DynFeedback@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/EndTrigger/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/EndTrigger@F:	No Formula, _XFTRIGGER(Sheet.4!EventXFMod)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/GlueType/#text:	0, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/GlueType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/HideText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/HideText@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/IsDropSource/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/IsDropSource@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/LangID@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/LocalizeMerge/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/LocalizeMerge@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoAlignBox/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoCtlHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoCtlHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoLiveDynamics/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoLiveDynamics@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoObjHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NoObjHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NonPrinting/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/NonPrinting@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/ObjType/#text:	0, 1, 2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/ObjType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/ShapeKeywords@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/UpdateAlignBox/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/UpdateAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/WalkPreference/#text:	0, 2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Misc/WalkPreference@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Calendar/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Calendar@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Format/#text:	@
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Format@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Format@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Invisible/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Invisible@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Label/#text:	Cost, Duration, Resources
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Prompt@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/SortKey@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/SortKey@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Type/#text:	0, 2, 7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Type@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Value/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Value@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Verify/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop/Verify@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop@ID:	1, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Prop@NameU:	Cost, Duration, Resources
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockAspect/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockAspect@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockBegin/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockBegin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockCalcWH/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockCalcWH@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockCrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockCrop@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockCustProp/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockCustProp@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockDelete/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockDelete@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockEnd/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockEnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockFormat/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockFormat@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockGroup/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockGroup@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockHeight/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockHeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockMoveX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockMoveX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockMoveY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockMoveY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockRotate/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockRotate@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockSelect/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockSelect@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockTextEdit/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockTextEdit@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockVtxEdit/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockVtxEdit@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockWidth/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Protection/LockWidth@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/A/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/A@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/B/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/B@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/C/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/C@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/D/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/D@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/X/#text:	0.1476377952755906, 0.1968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/X@F:	5MM*User.AntiScale, MIN(Height/4,Width/4)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/Y/#text:	0, 0.1968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/Y@F:	MIN(Width/4,Scratch.X1), No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Scratch@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/Text/cp@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/BottomMargin/#text:	0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/BottomMargin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/BottomMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/DefaultTabStop/#text:	0.5905511811023622
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/DefaultTabStop@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/LeftMargin/#text:	0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/LeftMargin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/LeftMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/RightMargin/#text:	0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/RightMargin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/RightMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TextBkgnd/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TextBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TextBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TextBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TextDirection/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TextDirection@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TopMargin/#text:	0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TopMargin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/TopMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/VerticalAlign/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextBlock/VerticalAlign@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtAngle/#text:	0, 3.1415926535898
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtAngle@F:	IF(AND(Angle>-60DEG,Angle<120DEG),0DEG,180DEG)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtAngle@Unit:	DEG
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtHeight/#text:	0.2444444444444444, 0.4429133858267717, 0.5905511811023623, 0.7874015748031497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtHeight@F:	Height*0.75, Height*1, TEXTHEIGHT(TheText,TxtWidth)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtHeight@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtLocPinX/#text:	0.2777777777777778, 0.2952755905511811, 0.3280839895013124, 0.4101049868766403, 0.5905511811023624
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtLocPinX@F:	TxtWidth*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtLocPinX@Unit:	MM, PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtLocPinY/#text:	0.1222222222222222, 0.2214566929133859, 0.2952755905511811, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtLocPinY@F:	TxtHeight*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtLocPinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtPinX/#text:	0, 0.4921259842519683, 0.4921259842519685, 0.5905511811023624
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtPinX@F:	SETATREF(Controls.TextPosition), Width*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtPinX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtPinY/#text:	-1.181102362204724, 0.2952755905511811, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtPinY@F:	Height*0.5, SETATREF(Controls.TextPosition.Y)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtPinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtWidth/#text:	0.5555555555555556, 0.5905511811023623, 0.6561679790026247, 0.8202099737532805, 1.181102362204725
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtWidth@F:	MAX(TEXTWIDTH(TheText),5*Char.Size), Width*0.66666666666667, Width*0.83333333333333, Width*1, Width-2*Scratch.Y1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/TextXForm/TxtWidth@Unit:	MM, PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/User/Prompt@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/User/Prompt@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/User/Value/#text:	1, 12
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/User/Value@F:	IF(ThePage!DrawingScale/ThePage!PageScale<8,1,ThePage!DrawingScale/ThePage!PageScale)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/User@ID:	1, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/User@NameU:	AntiScale, visVersion
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Angle/#text:	0, 3.141592653589793
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Angle@F:	ATAN2(EndY-BeginY,EndX-BeginX), GUARD(0DA)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Angle@Unit:	DEG
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/FlipX/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/FlipX@F:	GUARD(FALSE)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/FlipY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/FlipY@F:	GUARD(FALSE)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Height/#text:	-1.181102362204724, 0.5905511811023623, 0.7874015748031497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Height@F:	GUARD(EndY-BeginY)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Height@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/LocPinX/#text:	0.4921259842519685, 0.5905511811023622, 0.5905511811023624
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/LocPinX@F:	GUARD(Width*0.5), Width*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/LocPinX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/LocPinY/#text:	-0.5905511811023622, 0.2952755905511811, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/LocPinY@F:	GUARD(Height*0.5), Height*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/LocPinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/PinX/#text:	1.771653543307087, 1.968503937007874, 2.066929133858268
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/PinX@F:	(BeginX+EndX)/2, GUARD((BeginX+EndX)/2)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/PinX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/PinY/#text:	1.771653543307087, 1.968503937007874, 2.066929133858268
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/PinY@F:	(BeginY+EndY)/2, GUARD((BeginY+EndY)/2)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/PinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/ResizeMode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Width/#text:	0.984251968503937, 1.181102362204724, 1.181102362204725
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Width@F:	GUARD(EndX-BeginX), SQRT((EndX-BeginX)^2+(EndY-BeginY)^2)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm/Width@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/BeginX/#text:	1.181102362204724, 2.559055118110237
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/BeginX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/BeginY/#text:	1.968503937007874, 2.362204724409449
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/BeginY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/EndX/#text:	1.377952755905512, 2.362204724409449
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/EndX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/EndY/#text:	1.181102362204724, 1.968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/XForm1D/EndY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Event/vx:EventMultiDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Event/vx:EventMultiDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Layout/vx:ShapePlaceStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Layout/vx:ShapePlaceStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Protection/vx:LockFromGroupFormat/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Protection/vx:LockFromGroupFormat@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Protection/vx:LockThemeColors/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Protection/vx:LockThemeColors@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Protection/vx:LockThemeEffects/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape/vx:Protection/vx:LockThemeEffects@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape@FillStyle:	6, 7, 8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape@ID:	4, 5, 6
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape@LineStyle:	6, 7, 8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape@TextStyle:	6, 7, 8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape@Type:	Shape
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master/Shapes/Shape@UniqueID:	{29586E53-B557-4B87-9FBA-7815EF7131A3}, {53EC4CEF-6603-465C-8B4C-A174BB9BCF6B}, {AC5029A4-B9EF-40B3-AE25-C08009A6F3C4}, {C77160A1-1BC5-4F8C-8B83-E49FE93C014E}, {FE76A3BB-6DCD-48EE-8107-0159B90C6216}
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@AlignName:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@BaseID:	{0EEAC670-59F3-48F0-B6CE-A765E70AF88B}, {39B2FE99-D957-43B7-ACAD-0FDA33CBE299}, {4D1DC437-F5A3-4594-A858-174582FE6E3E}, {5360309E-055E-4BC4-8E61-41305B2A7B9B}, {5533023F-8494-4A6B-97B7-1BCC6B7DF262}, {F7290A45-E3AD-11D2-AE4F-006008C9F5A9}
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@Hidden:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@ID:	0, 2, 3, 4, 5, 6
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@IconSize:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@IconUpdate:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@MatchByName:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@Name:	Data, Decision, Dynamic connector, Fancy arrow, Manual operation, Process
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@NameU:	Data, Decision, Dynamic connector, Fancy arrow, Manual operation, Process
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@PatternFlags:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@Prompt:	Drag onto the page, then drag the ends to blue x’s on shapes (red indicates connection)., Drag the shape onto the drawing page., This connector automatically routes between the shapes it connects.
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Masters/Master@UniqueID:	{002A9108-0000-0000-8E40-00608CF305B2}, {3F8C3CD2-0003-0000-8E40-00608CF305B2}, {3F8FA4E4-0000-0000-8E40-00608CF305B2}, {3F8FA6A9-0002-0000-8E40-00608CF305B2}, {3F8FAA24-0004-0000-8E40-00608CF305B2}, {3F8FBCD1-000E-0000-8E40-00608CF305B2}
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Active/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Color/#text:	255
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/ColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Glue/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Lock/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Name/#text:	Connector, Flowchart
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/NameUniv/#text:	Connector, Flowchart
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Print/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Snap/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Status/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer/Visible/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/Layer@IX:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/AvenueSizeX/#text:	0.375
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/AvenueSizeX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/AvenueSizeY/#text:	0.375
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/AvenueSizeY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/BlockSizeX/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/BlockSizeX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/BlockSizeY/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/BlockSizeY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/CtrlAsInput/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/CtrlAsInput@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/DynamicsOff/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/DynamicsOff@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/EnableGrid/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/EnableGrid@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineAdjustFrom/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineAdjustFrom@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineAdjustTo/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineAdjustTo@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpCode/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpFactorX/#text:	0.66666666666667
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpFactorX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpFactorY/#text:	0.66666666666667
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpFactorY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineJumpStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineRouteExt/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineRouteExt@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToLineX/#text:	0.125
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToLineX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToLineY/#text:	0.125
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToLineY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToNodeX/#text:	0.125
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToNodeX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToNodeY/#text:	0.125
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/LineToNodeY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PageLineJumpDirX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PageLineJumpDirX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PageLineJumpDirY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PageLineJumpDirY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PageShapeSplit/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PlaceDepth/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PlaceFlip/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PlaceFlip@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PlaceStyle/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PlowCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/PlowCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/ResizePage/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/ResizePage@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageLayout/RouteStyle/#text:	5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/DrawingScale/#text:	0.03937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/DrawingScale@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/DrawingScaleType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/DrawingSizeType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/InhibitSnap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/PageHeight/#text:	11.69291338582677
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/PageHeight@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/PageScale/#text:	0.03937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/PageScale@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/PageWidth/#text:	8.26771653543307
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/PageWidth@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwObliqueAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwOffsetX/#text:	0.1181102362204724
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwOffsetX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwOffsetY/#text:	-0.1181102362204724
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwOffsetY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwScaleFactor/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/ShdwType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/PageProps/UIVisibility/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/Angle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/FlipX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/FlipY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/Height/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/LocPinX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/LocPinX@F:	Width*0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/LocPinY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/LocPinY@F:	Height*0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/PinX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/PinY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/ResizeMode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet/XForm/Width/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet@FillStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet@LineStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/PageSheet@TextStyle:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/AsianFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/AsianFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Case/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Case@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Color/#text:	#000000
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Color@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/ColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/ColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/ComplexScriptFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/ComplexScriptFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/ComplexScriptSize/#text:	-1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/ComplexScriptSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/DblUnderline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/DoubleStrikethrough/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Font/#text:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Font@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/FontScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/FontScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Highlight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/LangID/#text:	3081
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Letterspace/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Letterspace@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/LocalizeFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/LocalizeFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Overline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Pos/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Pos@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/RTLText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Size/#text:	0.1111111111111111, 0.1944444444444444
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Size@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Size@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Strikethru/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Style/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/Style@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char/UseVertical/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Char@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/CanGlue/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/CanGlue@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/Prompt/#text:	Reposition Text
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/Prompt@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/X/#text:	0.8661417322834644
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/XCon/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/XCon@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/XDyn/#text:	0.8661417322834644
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/XDyn@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/Y/#text:	-1.968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/YCon/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/YCon@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/YDyn/#text:	-1.968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control/YDyn@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control@ID:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Control@NameU:	TextPosition
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/EventDblClick/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/EventDblClick@F:	Inh, OPENTEXTWIN()
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/EventDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/EventDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/EventXFMod/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/EventXFMod@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/TheData/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/TheData@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/TheText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Event/TheText@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillBkgnd/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillForegnd/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillForegnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillForegndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillForegndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/FillPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwObliqueAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwObliqueAngle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwOffsetX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwOffsetX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwOffsetY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwOffsetY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwScaleFactor/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwScaleFactor@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShapeShdwType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwBkgnd/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwForegnd/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwForegnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwForegndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwForegndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Fill/ShdwPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo/X/#text:	0, 0.2952755905511825, 0.3937007874015762, 0.4921259842519699, 0.8661417322834644, 1.181102362204725, 1.299212598425197
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo/X@F:	Inh, Width*0, Width*1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo/Y/#text:	-0.187505, -4.803149606299211, 0, 0.09842519685039371, 0.2952755905511811, 0.3937007874015748, 0.4921259842519685, 0.5196850393700787, 0.6889763779527559, 0.7874015748031497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo/Y@F:	Height*0, Height*1, Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/LineTo@IX:	10, 2, 3, 4, 5, 6, 7, 8, 9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/MoveTo/X/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/MoveTo/X@F:	Inh, Width*0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/MoveTo/Y/#text:	0, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/MoveTo/Y@F:	Height*0, Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/MoveTo/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/MoveTo@IX:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoFill/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoFill@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoLine/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoLine@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoShow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoShow@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoSnap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom/NoSnap@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Geom@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/LayerMem/LayerMember/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/BeginArrow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/BeginArrow@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/BeginArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/BeginArrowSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/EndArrow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/EndArrow@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/EndArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/EndArrowSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineCap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineCap@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineColor/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineColor@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LinePattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineWeight/#text:	0.01
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/LineWeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/Rounding/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Line/Rounding@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/BegTrigger/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/BegTrigger@F:	Inh, No Formula, _XFTRIGGER(EventXFMod)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/Calendar/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/Calendar@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/Comment@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/DropOnPageScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/DropOnPageScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/DynFeedback/#text:	0, 2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/DynFeedback@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/EndTrigger/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/EndTrigger@F:	Inh, No Formula, _XFTRIGGER(EventXFMod)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/GlueType/#text:	0, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/GlueType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/HideText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/HideText@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/IsDropSource/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/IsDropSource@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/LangID@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/LocalizeMerge/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/LocalizeMerge@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoAlignBox/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoCtlHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoCtlHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoLiveDynamics/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoLiveDynamics@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoObjHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NoObjHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NonPrinting/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/NonPrinting@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/ObjType/#text:	0, 2, 8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/ObjType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/ShapeKeywords@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/UpdateAlignBox/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/UpdateAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/WalkPreference/#text:	0, 2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Misc/WalkPreference@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/AsianFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/AsianFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Case/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Case@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Color/#text:	#000000
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Color@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/ColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/ColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/ComplexScriptFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/ComplexScriptFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/ComplexScriptSize/#text:	-1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/ComplexScriptSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/DblUnderline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/DoubleStrikethrough/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Font/#text:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Font@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/FontScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/FontScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Highlight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/LangID/#text:	3081
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Letterspace/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Letterspace@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/LocalizeFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/LocalizeFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Overline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Pos/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Pos@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/RTLText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Size/#text:	0.1111111111111111
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Size@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Size@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Strikethru/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Style/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/Style@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char/UseVertical/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Char@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/AutoGen/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/AutoGen@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/DirX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/DirX@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/DirY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/DirY@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/Prompt@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/Type/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/Type@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/X/#text:	0, 0.09842519685039371, 0.4921259842519685, 0.8858267716535433, 1.312335958005248, 2.624671916010497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/X@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/Y/#text:	0, 0.2952755905511811, 0.5905511811023623, 0.7874015748031491, 1.574803149606298
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/Y@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Connection@IX:	0, 1, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/EventDblClick/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/EventDblClick@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/EventDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/EventDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/EventXFMod/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/EventXFMod@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/TheData/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/TheData@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/TheText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Event/TheText@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo/X/#text:	-0.3937007874015746, 0, 0.1968503937007874, 0.3937007874015746, 0.7874015748031497, 0.9842519685039369, 2.230971128608922, 3.018372703412071
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo/X@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo/Y/#text:	0, 0.5905511811023623, 1.574803149606298
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo/Y@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/LineTo@IX:	2, 3, 4, 5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo/X/#text:	-0.3937007874015746, 0.1968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo/X@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo/X@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo/Y/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo/Y@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo/Y@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/MoveTo@IX:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoFill/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoFill@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoLine/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoLine@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoShow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoShow@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoSnap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom/NoSnap@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Geom@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/LayerMem/LayerMember/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/A/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/A@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/B/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/B@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/C/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/C@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/D/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/D@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/X/#text:	0.3937007874015746
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/X@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/Y/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch/Y@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Scratch@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Text/#text:	Copy of compound, Inner of compound, Outer of compound
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/Text/cp@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtAngle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtHeight/#text:	0.5905511811023623, 1.574803149606298
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtHeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtLocPinX/#text:	0.2952755905511811, 0.8748906386701655
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtLocPinX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtLocPinX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtLocPinY/#text:	0.2952755905511811, 0.7874015748031491
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtLocPinY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtPinX/#text:	0.4921259842519685, 1.312335958005248
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtPinX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtPinY/#text:	0.2952755905511811, 0.7874015748031491
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtPinY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtWidth/#text:	0.590551181102362, 1.749781277340331
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtWidth@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/TextXForm/TxtWidth@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Angle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Angle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Angle@Unit:	DEG
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/FlipX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/FlipY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Height/#text:	0.5905511811023623, 1.574803149606298
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Height@F:	Sheet.8!Height*0.375, Sheet.8!Height*1, Sheet.9!Height*0.375, Sheet.9!Height*1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/LocPinX/#text:	0.4921259842519685, 1.312335958005248
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/LocPinX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/LocPinY/#text:	0.2952755905511811, 0.7874015748031491
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/LocPinY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/PinX/#text:	1.312335958005249, 2.263779527559052
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/PinX@F:	Sheet.8!Width*0.47619047619048, Sheet.8!Width*0.82142857142857, Sheet.9!Width*0.47619047619048, Sheet.9!Width*0.82142857142857
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/PinY/#text:	0.7874015748031491, 1.082677165354331
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/PinY@F:	Sheet.8!Height*0.5, Sheet.8!Height*0.6875, Sheet.9!Height*0.5, Sheet.9!Height*0.6875
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/ResizeMode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/ResizeMode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Width/#text:	0.9842519685039369, 2.624671916010497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/XForm/Width@F:	Sheet.8!Width*0.35714285714286, Sheet.8!Width*0.95238095238095, Sheet.9!Width*0.35714285714286, Sheet.9!Width*0.95238095238095
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/vx:Event/vx:EventMultiDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape/vx:Event/vx:EventMultiDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape@ID:	10, 11, 6, 7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape@Master:	5, 6
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape@NameU:	Data, Manual operation
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Shapes/Shape@Type:	Shape
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Text/#text:	Decision box, Test line, Test shape1
+Visio 2007, Text tool, This is a “Fancy arrow”
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/Text/cp@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtAngle/#text:	0, 3.1415926535898
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtAngle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtAngle@Unit:	DEG
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtHeight/#text:	0.2444939358181424, 0.7874015748031497
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtHeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtHeight@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtLocPinX/#text:	0.2809738513436415, 0.5905511811023625
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtLocPinX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtLocPinY/#text:	0.1222469679090712, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtLocPinY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtLocPinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtPinX/#text:	0.5905511811023625, 0.8661417322834644
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtPinX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtPinY/#text:	-1.968503937007874, 0.3937007874015748
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtPinY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtPinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtWidth/#text:	0.561947702687283, 1.181102362204725
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/TextXForm/TxtWidth@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Angle/#text:	0, 3.141592653589793
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Angle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/FlipX/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/FlipX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/FlipY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/FlipY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Height/#text:	-4.803149606299211, 0.5196850393700787, 0.5905511811023623, 0.7874015748031497, 1.574803149606298
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Height@F:	GUARD(EndY-BeginY), Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Height@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/LocPinX/#text:	0.4330708661417322, 0.4921259842519685, 0.5905511811023625, 0.6496062992125986, 1.37795275590551
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/LocPinX@F:	Inh, Width*0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/LocPinX@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/LocPinY/#text:	-2.401574803149606, 0.2598425196850394, 0.2952755905511811, 0.3937007874015748, 0.7874015748031491
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/LocPinY@F:	Height*0.5, Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/LocPinY@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/PinX/#text:	1.929133858267716, 2.952755905511811, 3.444881889763779, 4.783464566929133, 5.708661417322833, 5.826771653543309, 6.003937007874017
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/PinX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/PinY/#text:	10.17322834645669, 2.165354330708661, 3.444881889763779, 3.74015748031496, 5.511811023622046, 7.440944881889763, 7.677165354330708
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/PinY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/ResizeMode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/ResizeMode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Width/#text:	0.8661417322834644, 0.984251968503937, 1.181102362204725, 1.299212598425197, 2.75590551181102
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Width@F:	GUARD(EndX-BeginX), Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm/Width@Unit:	MM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm1D/BeginX/#text:	1.496062992125984, 6.299212598425195
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm1D/BeginY/#text:	2.165354330708661, 9.842519685039369
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm1D/EndX/#text:	2.362204724409449, 5.118110236220471
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/XForm1D/EndY/#text:	2.165354330708661, 5.039370078740157
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Event/vx:EventMultiDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Event/vx:EventMultiDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Fill/vx:FillPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Fill/vx:FillPattern@F:	THEMEGUARD(0)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Fill/vx:ShdwPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Fill/vx:ShdwPattern@F:	THEMEGUARD(0)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Line/vx:LinePattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape/vx:Line/vx:LinePattern@F:	THEMEGUARD(0)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@FillStyle:	1, 7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@ID:	1, 2, 3, 4, 5, 8, 9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@LineStyle:	1, 7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@Master:	0, 2, 3, 4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@NameU:	Decision, Dynamic connector, Fancy arrow, Process
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@TextStyle:	7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page/Shapes/Shape@Type:	Group, Shape
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page@ID:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page@NameU:	Page-1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page@ViewCenterX:	6.628937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page@ViewCenterY:	5.2165354330709
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Pages/Page@ViewScale:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/AsianFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/AsianFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Case/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Case@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Color/#text:	#000000, 0, 4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/ColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/ColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/ComplexScriptFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/ComplexScriptFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/ComplexScriptSize/#text:	-1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/ComplexScriptSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/DblUnderline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/DblUnderline@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/DoubleStrikethrough/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/DoubleStrikethrough@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Font/#text:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Font@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/FontScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/FontScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Highlight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Highlight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/LangID@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Letterspace/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Letterspace@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/LocalizeFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/LocalizeFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Overline/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Overline@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Pos/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Pos@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/RTLText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/RTLText@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Size/#text:	0.1111111111111111, 0.125, 0.1666666666666667
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Size@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Strikethru/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Strikethru@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Style/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/Style@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/UseVertical/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char/UseVertical@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Char@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/EventDblClick/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/EventDblClick@F:	DEFAULTEVENT(), No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/EventDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/EventDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/EventXFMod/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/EventXFMod@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/TheData/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/TheData@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/TheText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Event/TheText@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillBkgnd/#text:	#eff1e4, #ffffff, 0, 15
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillForegnd/#text:	#000000, #dde2cd, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillForegnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillForegndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillForegndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillPattern/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/FillPattern@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwObliqueAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwObliqueAngle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwOffsetX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwOffsetX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwOffsetY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwOffsetY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwScaleFactor/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwScaleFactor@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShapeShdwType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwBkgnd/#text:	#ffffff, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwForegnd/#text:	#000000, #ffffff, 0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwForegnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwForegndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwForegndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Fill/ShdwPattern@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/DisplayMode/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/DisplayMode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/DontMoveChildren/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/DontMoveChildren@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/IsDropTarget/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/IsDropTarget@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/IsSnapTarget/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/IsSnapTarget@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/IsTextEditTarget/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/IsTextEditTarget@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/SelectMode/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Group/SelectMode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Help/Copyright@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Help/HelpTopic@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Blur/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Blur@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Brightness/#text:	0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Brightness@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Contrast/#text:	0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Contrast@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Denoise/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Denoise@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Gamma/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Gamma@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Sharpen/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Sharpen@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Transparency/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Image/Transparency@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/LayerMem/LayerMember@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConFixedCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConFixedCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpDirX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpDirX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpDirY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpDirY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineJumpStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineRouteExt/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ConLineRouteExt@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeFixedCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeFixedCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePermeablePlace/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePermeablePlace@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePermeableX/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePermeableX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePermeableY/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePermeableY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePlaceFlip/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePlaceFlip@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePlowCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapePlowCode@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeRouteStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeRouteStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeSplit/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeSplit@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeSplittable/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Layout/ShapeSplittable@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/BeginArrow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/BeginArrow@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/BeginArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/BeginArrowSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/EndArrow/#text:	0, 4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/EndArrow@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/EndArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/EndArrowSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineCap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineCap@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineColor/#text:	#000000, 0, 4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineColor@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineColorTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LinePattern/#text:	0, 1, 23
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LinePattern@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineWeight/#text:	0, 0.003333, 0.003333333333333333, 0.01
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineWeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/LineWeight@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/Rounding/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Line/Rounding@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/BegTrigger/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/BegTrigger@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/Calendar/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/Calendar@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/Comment@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/Comment@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/DropOnPageScale/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/DropOnPageScale@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/DynFeedback/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/DynFeedback@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/EndTrigger/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/EndTrigger@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/GlueType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/GlueType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/HideText/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/HideText@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/IsDropSource/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/IsDropSource@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/LangID/#text:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/LangID@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/LocalizeMerge/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/LocalizeMerge@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoAlignBox/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoCtlHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoCtlHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoLiveDynamics/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoLiveDynamics@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoObjHandles/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NoObjHandles@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NonPrinting/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/NonPrinting@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/ObjType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/ObjType@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/ShapeKeywords@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/ShapeKeywords@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/UpdateAlignBox/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/UpdateAlignBox@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/WalkPreference/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Misc/WalkPreference@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/AvenueSizeX/#text:	0.2952755905511811
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/AvenueSizeY/#text:	0.2952755905511811
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/BlockSizeX/#text:	0.1968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/BlockSizeY/#text:	0.1968503937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/CtrlAsInput/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/DynamicsOff/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/EnableGrid/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineAdjustFrom/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineAdjustTo/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineJumpCode/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineJumpFactorX/#text:	0.66666666666667
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineJumpFactorY/#text:	0.66666666666667
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineJumpStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineRouteExt/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineToLineX/#text:	0.09842519685039369
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineToLineY/#text:	0.09842519685039369
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineToNodeX/#text:	0.09842519685039369
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/LineToNodeY/#text:	0.09842519685039369
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PageLineJumpDirX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PageLineJumpDirY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PageShapeSplit/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PlaceDepth/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PlaceFlip/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PlaceStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/PlowCode/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/ResizePage/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageLayout/RouteStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/DrawingScale/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/DrawingScale@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/DrawingScaleType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/DrawingScaleType@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/DrawingSizeType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/DrawingSizeType@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/InhibitSnap/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/InhibitSnap@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageHeight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageHeight@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageHeight@Unit:	NUM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageScale/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageScale@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageWidth/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageWidth@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/PageWidth@Unit:	NUM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwObliqueAngle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwObliqueAngle@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwObliqueAngle@Unit:	NUM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwOffsetX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwOffsetX@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwOffsetX@Unit:	NUM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwOffsetY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwOffsetY@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwOffsetY@Unit:	NUM
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwScaleFactor/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwScaleFactor@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwType/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/ShdwType@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/UIVisibility/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PageProps/UIVisibility@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/Bullet/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/Bullet@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/BulletFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/BulletFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/BulletFontSize/#text:	-1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/BulletFontSize@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/BulletStr@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/BulletStr@V:	null
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/Flags/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/Flags@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/HorzAlign/#text:	0, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/HorzAlign@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/IndFirst/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/IndFirst@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/IndLeft/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/IndLeft@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/IndRight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/IndRight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/LocalizeBulletFont/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/LocalizeBulletFont@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/SpAfter/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/SpAfter@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/SpBefore/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/SpBefore@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/SpLine/#text:	-1.2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/SpLine@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/TextPosAfterBullet/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para/TextPosAfterBullet@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Para@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/CenterX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/CenterY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/OnPage/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PageBottomMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PageLeftMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PageRightMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PageTopMargin/#text:	0.25
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PagesX/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PagesY/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PaperKind/#text:	9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PaperSource/#text:	7
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PrintGrid/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/PrintPageOrientation/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/ScaleX/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/PrintProps/ScaleY/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockAspect/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockAspect@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockBegin/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockBegin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockCalcWH/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockCalcWH@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockCrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockCrop@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockCustProp/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockCustProp@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockDelete/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockDelete@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockEnd/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockEnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockFormat/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockFormat@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockGroup/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockGroup@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockHeight/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockHeight@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockMoveX/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockMoveX@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockMoveY/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockMoveY@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockRotate/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockRotate@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockSelect/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockSelect@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockTextEdit/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockTextEdit@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockVtxEdit/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockVtxEdit@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockWidth/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Protection/LockWidth@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/XGridDensity/#text:	8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/XGridOrigin/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/XGridSpacing/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/XRulerDensity/#text:	32
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/XRulerOrigin/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/YGridDensity/#text:	8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/YGridOrigin/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/YGridSpacing/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/YRulerDensity/#text:	32
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/RulerGrid/YRulerOrigin/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/StyleProp/EnableFillProps/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/StyleProp/EnableLineProps/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/StyleProp/EnableTextProps/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/StyleProp/HideForApply/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/Tabs@IX:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/BottomMargin/#text:	0, 0.02777777777777778, 0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/BottomMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/DefaultTabStop/#text:	0.5905511811023622
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/DefaultTabStop@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/LeftMargin/#text:	0, 0.02777777777777778, 0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/LeftMargin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/LeftMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/RightMargin/#text:	0, 0.02777777777777778, 0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/RightMargin@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/RightMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TextBkgnd/#text:	#ffffff, 0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TextBkgnd@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TextBkgndTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TextBkgndTrans@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TextDirection/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TextDirection@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TopMargin/#text:	0, 0.02777777777777778, 0.05555555555555555
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/TopMargin@Unit:	PT
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/VerticalAlign/#text:	0, 1, 2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/TextBlock/VerticalAlign@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Event/vx:EventMultiDrop/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Event/vx:EventMultiDrop@F:	No Formula
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Fill/vx:FillBkgnd/#text:	#eff1e4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Fill/vx:FillBkgnd@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),SETATREFEXPR(TINT(THEME("AccentColor2"),20)),SETATREFEXPR(RGB(239,241,228))))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Fill/vx:FillForegnd/#text:	#dde2cd
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Fill/vx:FillForegnd@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),SETATREFEXPR(THEME("AccentColor2")),SETATREFEXPR(RGB(221,226,205))))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Fill/vx:ShdwPattern/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Fill/vx:ShdwPattern@F:	THEMEGUARD(0)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Layout/vx:ShapePlaceStyle/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Layout/vx:ShapePlaceStyle@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:BeginArrow/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:BeginArrow@F:	THEME("ConnectorBegin")
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:BeginArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:BeginArrowSize@F:	THEME("ConnectorBeginSize")
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:EndArrow/#text:	4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:EndArrow@F:	THEME("ConnectorEnd2")
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:EndArrowSize/#text:	2
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:EndArrowSize@F:	THEME("ConnectorEndSize")
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LineColor/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LineColor@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),SETATREFEXPR(THEME("ConnectorColor")),SETATREFEXPR(0)))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LineColorTrans/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LineColorTrans@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),THEME("ConnectorTransparency"),SETATREFEXPR(0)))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LinePattern/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LinePattern@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),THEME("ConnectorPattern"),SETATREFEXPR(1)))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LineWeight/#text:	0.003333
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:LineWeight@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),THEME("ConnectorWeight"),SETATREFEXPR(0.003333)))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:Rounding/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Line/vx:Rounding@F:	THEMEGUARD(IF(CELLISTHEMED(FALSE),THEME("ConnectorRounding"),SETATREFEXPR(0)))
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Protection/vx:LockFromGroupFormat/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Protection/vx:LockFromGroupFormat@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Protection/vx:LockThemeColors/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Protection/vx:LockThemeColors@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Protection/vx:LockThemeEffects/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:Protection/vx:LockThemeEffects@F:	Inh
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:TextBlock/vx:TextBkgnd/#text:	#ffffff
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet/vx:TextBlock/vx:TextBkgnd@F:	THEMEGUARD(THEME("BackgroundColor")+1)
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet@FillStyle:	0, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet@ID:	0, 1, 2, 3, 4, 6, 7, 8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet@LineStyle:	0, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet@Name:	Basic, Connector, Flow Normal, Guide, No Style, None, Normal, Text Only
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet@NameU:	Basic, Connector, Flow Normal, Guide, No Style, None, Normal, Text Only
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/StyleSheets/StyleSheet@TextStyle:	0, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/DynamicGridEnabled/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/GlueSettings/#text:	9
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/ShowConnectionPoints/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/ShowGrid/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/ShowGuides/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/ShowPageBreaks/#text:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/ShowRulers/#text:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/SnapExtensions/#text:	34
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/SnapSettings/#text:	295
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/StencilGroup/#text:	10
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/StencilGroupPos/#text:	0, 1, 2, 3
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window/TabSplitterPos/#text:	0.5
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@ContainerType:	Page
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@Document:	C:\Program Files (x86)\Microsoft Office\Office12\1033\ARROWS_M.VSS, C:\Program Files (x86)\Microsoft Office\Office12\1033\BACKGR_M.VSS, C:\Program Files (x86)\Microsoft Office\Office12\1033\BASFLO_M.VSS, C:\Program Files (x86)\Microsoft Office\Office12\1033\BORDER_M.VSS
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@ID:	0, 1, 2, 3, 4
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@Page:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@ParentWindow:	0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@ViewCenterX:	6.628937007874
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@ViewCenterY:	5.2165354330709
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@ViewScale:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@WindowHeight:	731, 775
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@WindowLeft:	-195, -8
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@WindowState:	1025, 1073741824, 67109889
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@WindowTop:	-30, 1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@WindowType:	Drawing, Stencil
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows/Window@WindowWidth:	1616, 189
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows@ClientHeight:	737
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument/Windows@ClientWidth:	1600
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@DocLangID:	1033
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@buildnum:	6423
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@key:	276574F514F67D61A288EFA6E15AE3150365C7F502DB12AE0DB86C1BB3CB05531A79927372D5BA172F7B2890C1730ABDA9E636F1A88E8D4C27385D678E65506F
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@metric:	1
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@start:	190
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@version:	12.0
+2014/01/02 21:02:37 visio_parser.pl /VisioDocument@xml:space:	preserve

@@ -1,8 +1,7 @@
 #!/usr/bin/perl
-# $Header: /home/tomby/src/perl/RCS/Visio.t,v 1.2 2011/04/11 05:12:19 tomby Exp $
 #
 # Visio.t - test harness for Visio class.
-# $Revision: 1.2 $, Copyright (C) 2011 Thomas McMeekin
+# Revision: ___EUMM_VERSION___, Copyright (C) 2012 Thomas McMeekin
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published
@@ -18,10 +17,6 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 #
-#
-# History:
-# $Log: Visio.t,v $
-# Revision 1.2  2011/04/11 05:12:19  tomby
 =head1 NAME
 
 Visio.t - test harness for Visio class.
@@ -159,11 +154,11 @@ Test harness for the B<Visio.pm> class.
 
 =head1 VERSION
 
-$Revision: 1.2 $
+___EUMM_VERSION___
 
 =head1 AUTHOR
 
-B<Tom McMeekin> tmcmeeki@hotmail.com
+B<Tom McMeekin> tmcmeeki@cpan.org
 
 This code is distributed under the same terms as Perl.
 
