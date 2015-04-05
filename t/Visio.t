@@ -89,6 +89,21 @@ isa_ok($vdx1->_xml, 'Visio::XML',	"xml object 1");
 isa_ok($vdx2->_xml, 'Visio::XML',	"xml object 2");
 
 
+sub put_ids {
+	for my $obj (@_) {
+
+		$g_log->debug(sprintf "obj [%s:%p:%s] _xml [%p]",
+			(defined $obj->filename) ? $obj->filename : "(null}",
+			$obj->_id,
+			Dumper($obj->_id),
+			$obj->_xml,
+		);
+
+	}
+}
+
+put_ids $vdx1, $vdx2;
+
 # ---- simple attributes ----
 isnt($ext, "",			"extension");
 isnt($vdx2->filename, "",	"filename");
@@ -111,17 +126,20 @@ like($vdx1->_xml->doc->toString, qr/TimeCreated.*T.*TimeCreated/s,	"blank stamp"
 # ---- open ----
 my $fn2 = $fn_tpl; $fn2 =~ s/n/2/;
 
+put_ids $vdx1, $vdx2;
+
 ok($vdx2->open($fn2) == 0,	"open");
 like($vdx2->_xml->doc->toString, qr/$re_visio/s,	"open structure");
 
 isa_ok($vdx2->_xml->doc, 'XML::LibXML::Document',	"doc parsed");
 isa_ok($vdx2->_xml->root, 'XML::LibXML::Element',	"root parsed");
 
-is($vdx2->_id->{'Master'}, 3,		"open id 1");
+is($vdx2->_id->{'Master'}, 6,		"open id 1");
 is($vdx2->_id->{'Page'}, 0,		"open id 2");
 is($vdx2->_id->{'Window'}, 4,		"open id 3");
 
 #printf "vdx2 [%s]\n", Dumper(\$vdx2);
+put_ids $vdx1, $vdx2;
 
 
 # ---- docprop ----
@@ -131,13 +149,23 @@ for (qw/ Title Subject Creator Keywords Desc Manager Company Category /) {
 }
 
 # ---- add_page ----
+#ERROR  the "_id" hash attribute appears to be sharing the same memory area
+#as page ids are incrementing across both objects simultaneously!
+put_ids $vdx1, $vdx2;
 $vdx1->add_page("foo");
-$vdx2->add_page("foo");
+put_ids $vdx1, $vdx2;
+$vdx1->add_page("bar");
+$vdx1->add_page("fubar");
+$vdx2->add_page("p2");
+$vdx2->add_page("p3");
+$vdx2->add_page("p4");
+
 
 # ---- save ----
 my $fn1 = $fn_tpl; $fn1 =~ s/n/1/;
-my $vdx3 = Visio->new();
+my $vdx3 = new Visio;
 isa_ok($vdx3, $c_this,	"new no content");
+put_ids $vdx3;
 
 ok($vdx1->save($fn1) == 0,	"save from created");
 ok($vdx2->save($fn2) == 0,	"save from parse");

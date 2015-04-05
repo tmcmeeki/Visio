@@ -9,6 +9,8 @@ my $preop = 'find $(DISTVNAME) -type f -exec egrep -q ___EUMM_VERSION___ {} \; -
 WriteMakefile(
     NAME              => 'Visio',
     VERSION_FROM      => 'lib/Visio.pm', # finds $VERSION
+    MIN_PERL_VERSION  => '5.006004',
+    LICENSE           => 'gpl_2',
     PREREQ_PM         => {
 	'Visio::XML' => '1.001',
     }, # e.g., Module::Name => 1.1

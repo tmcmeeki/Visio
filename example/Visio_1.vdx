@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisioDocument xmlns:vx="http://schemas.microsoft.com/visio/2006/extension" xmlns="http://schemas.microsoft.com/visio/2003/core">
   <DocumentProperties>
-    <TimeCreated>2014-01-02T11:15:28</TimeCreated>
+    <TimeCreated>2015-04-06T09:20:32</TimeCreated>
     <Title>dummy</Title>
     <Subject>dummy</Subject>
     <Creator>dummy</Creator>
@@ -10,8 +10,8 @@
     <Manager>dummy</Manager>
     <Company>dummy</Company>
     <Category>dummy</Category>
-    <TimeEdited>2014-01-02T11:15:28</TimeEdited>
-    <TimeSaved>2014-01-02T11:15:28</TimeSaved>
+    <TimeEdited>2015-04-06T09:20:32</TimeEdited>
+    <TimeSaved>2015-04-06T09:20:32</TimeSaved>
   </DocumentProperties>
   <DocumentSettings/>
   <Colors/>
@@ -21,6 +21,8 @@
   <Masters/>
   <Pages>
     <Page ID="1" NameU="foo"/>
+    <Page ID="2" NameU="bar"/>
+    <Page ID="3" NameU="fubar"/>
   </Pages>
   <Windows/>
 </VisioDocument>

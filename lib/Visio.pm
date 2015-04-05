@@ -57,6 +57,8 @@ use Logfer qw/ :all /;
 
 # package constants
 
+use constant ATTR_SEARCH => qw/ BaseID ID UniqueID NameU /;	# list of attributes to be returned by a given search
+
 use constant EXT_DOCUMENT  => ".vdx";
 
 use constant NN_DOCUMENT => "VisioDocument";
@@ -89,6 +91,7 @@ my %attribute = (
 		'Window' => 0,
 	},
 	_loaded => 0,	# flag shows if a document is in-memory
+	search_attr => [ ATTR_SEARCH ],
 	_xml => undef,
 );
 
@@ -116,17 +119,14 @@ sub AUTOLOAD {
 
 
 sub new {
-	my ($class,%h_args) = shift;
-#	my $self = $class->SUPER::new(%h_args);
-#        foreach my $attr (keys %attribute) {
-#		$self->{_permitted}->{$attr} = $attribute{$attr};
-#	}
-#	@{$self}{keys %attribute} = values %attribute;
+	my ($class) = shift;
 	my $self = { _permitted => \%attribute, %attribute };
 
 	++ ${ $self->{_n_objects} };
 
 	bless ($self, $class);
+
+	$self->_log->debug(sprintf "created new object [%p]", $self);
 
 	my %args = @_;	# start processing any parameters passed
 	my ($method,$value);
@@ -138,7 +138,9 @@ sub new {
 		$self->$method($value);
 	}
 
-	$self->{_xml} = Visio::XML->new;
+	$self->{_xml} = new Visio::XML;
+
+	$self->_log->debug(sprintf "_id [%p]", $self->_id);
 
 	return $self;
 }
@@ -195,6 +197,10 @@ sub add_page {
 
 	$page->setAttribute('ID', ++$self->_id->{$type});
 	$page->setAttribute('NameU', $name);
+
+	$self->_log->debug(sprintf "filename [%s] _id [%p] _id [%s]", defined($self->filename) ? $self->filename : "(null)", $self->_id, Dumper($self->_id));
+#	$self->_log->debug(sprintf "xmldoc [%s]", $self->_xml->doc);
+#	$self->_log->debug(sprintf "xmlroot [%s]", $self->_xml->root);
 
 	return $name;
 }
@@ -258,6 +264,8 @@ sub open {
 
 			$self->_id->{$_} = $id;
 		}
+
+		$self->_log->debug(sprintf "filename [%s] _id [%s]", $self->filename, Dumper($self->_id));
 
 		return 0;
 	}
