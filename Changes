@@ -1,8 +1,28 @@
 Revision history for Perl extension Visio.
 
-0.01  Sun Jun  3 14:12:44 2012
-	- original version; created by h2xs 1.23 with options
-		-X -n Visio
+Considerations	tomby	Mon 18 Sep 2023 07:02:25 AEST
+
+The Visio format changed from straight XML to the OPC convention c. 2013.
+There are some sample scripts on use of OPC in the example folder, e.g. vsdx.pl
+
+Other references below:
+
+  https://en.wikipedia.org/wiki/Open_Packaging_Conventions
+
+  https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx
+
+  https://www.ecma-international.org/publications-and-standards/standards/ecma-376/
+  https://metacpan.org/pod/OPC#AUTHOR
+
+Suggested approach:
+a. Create a new module, e.g.Visio::OPC which handles the interaction with the 
+   OPC-format file.  This would handle the read and save operations via the OPC
+   module.
+b. The OPC format is basically a collection of parts/relations in the form of
+   XML fragments.  So LibXML is still fundamental to reading this format, e.g.
+   OPC indexes all the document parts and fragments, but you need XML to pull
+   the XML schemas out for the relationship IDs.
+c. Retain the Visio-XML for basic operations? Or delegate the XML components.
 
 TO-DO.
 
@@ -20,3 +40,8 @@ copy shape page->page (within, between)
 
 shape properties, e.g. name, position, size
 attribute assignment
+
+0.01  Sun Jun  3 14:12:44 2012
+	- original version; created by h2xs 1.23 with options
+		-X -n Visio
+
